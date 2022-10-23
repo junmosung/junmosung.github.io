@@ -34,10 +34,10 @@ spotify:
 telegram:
   name: Telegram
   icon: icon-telegram
-twitter:
-  name: Twitter
-  icon: icon-twitter
-  prepend: 'https://twitter.com/'
+# twitter:
+#   name: Twitter
+#   icon: icon-twitter
+#   prepend: 'https://twitter.com/'
 vine:
   name: Vine
   icon: icon-vine
