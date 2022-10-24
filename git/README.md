@@ -18,3 +18,5 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 
 ## Getting started
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
+
+[install]: install.md
